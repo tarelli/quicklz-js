@@ -1,0 +1,1 @@
+/*QuickLZ Port to Javascript*/
